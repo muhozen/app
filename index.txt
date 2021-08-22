@@ -1,3 +1,4 @@
 Merhaba
+ben düzelttim
 remote masterdan gelen güncelleme
 remote mster dan ikinci satır
