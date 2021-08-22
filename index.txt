@@ -1,2 +1,4 @@
 Merhaba
-ikinci satır
+ben düzelttim
+remote masterdan gelen güncelleme
+remote mster dan ikinci satır
